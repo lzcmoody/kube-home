@@ -1,2 +1,2 @@
 # kube-home
-kube-home is an non-commercial project which aim to deploy nextcloud/calibre/filebrower to kubernetes and self-hosted server.
+kube-home is an integration project served for personal storage which based on kubernetes. We aim to simplify and harmonize services deployment like nextcloud, calibre, filebrowser, photoprism etc.
